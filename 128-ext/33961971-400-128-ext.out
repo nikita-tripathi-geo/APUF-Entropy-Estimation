@@ -1,0 +1,8 @@
+['entropy_helper.py', '129', '400', '200', '100', '50']
+Layers: 128
+Response length: 400
+200 (129, 400)
+[393.08247164451706]
+Extractable entropy for k=400: 393.08247164451706
+[393.0878832059435]
+Degrees of freedom: 393.0878832059435

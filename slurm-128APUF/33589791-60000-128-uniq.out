@@ -1,0 +1,4 @@
+Layers: 128
+Response length: 60000
+/var/spool/slurmd/job33589791/slurm_script: line 23: 2030427 Killed                  python3 entropy_helper.py 129 $SLURM_ARRAY_TASK_ID 200 100 50
+slurmstepd: error: Detected 1 oom-kill event(s) in StepId=33589791.batch. Some of your processes may have been killed by the cgroup out-of-memory handler.
